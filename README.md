@@ -1,6 +1,6 @@
-# Hi, I'm Vihaan
+# Hi, I'm Vihaan!
 
-Sophomore at Westhill High School in Stamford, CT. Class rank 1/513.
+Junior at Westhill High School in Stamford, CT. Class rank 1/478.
 
 ## What I'm working on
 
@@ -21,4 +21,5 @@ Sophomore at Westhill High School in Stamford, CT. Class rank 1/513.
 ## Reach me
 
 - vihaan.goyal1512@gmail.com
+- 646-221-8999
 - Stamford, Connecticut
