@@ -6,7 +6,7 @@ Junior at Westhill High School in Stamford, CT. Class rank 1/478.
 
 - **Federated learning research at Yale** with Dr. Herlock Rahimi and Dr. Dionysis Kalogerias. Focused on fairness and selection bias in distributed optimization.
 - **Independent research** in harmful algal bloom prevention using machine learning systems.
-- **Building [Greenlens](https://github.com/vihaan-goyal/greenlens)** - a web extension that scans your screen for the product you are browsing and rates it out of 100 based on several factors. Recommends better, cleaner options.
+- **[Fudge Ur Uncle](https://github.com/vihaan-goyal/fudge-ur-uncle)**  — Politician accountability app that exposes the intricacies of any politician in the US. (work in progress)
 
 ## Things I've built
 
