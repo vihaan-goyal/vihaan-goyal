@@ -5,7 +5,7 @@ Junior at Westhill High School in Stamford, CT. Class rank: 1/478.
 ## What I'm working on
 
 - **Federated learning research at Yale** with Dr. Herlock Rahimi and Dr. Dionysis Kalogerias. Focused on fairness and selection bias in distributed optimization. Submitted "Group-Fair SGD via Masked Optimal Transport" to ICASSP 2027. Currently under review.
-- **Independent research** in harmful algal bloom prevention using machine learning systems.
+- **Independent research** in harmful algal bloom prevention and remediation using machine learning systems.
 - **[Fudge Ur Uncle](https://github.com/vihaan-goyal/fudge-ur-uncle)**  — Politician accountability app that exposes the intricacies of any politician in the US. (work in progress)
 
 ## Things I've built
