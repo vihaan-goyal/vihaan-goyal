@@ -1,6 +1,6 @@
 # Hi, I'm Vihaan!
 
-Junior at Westhill High School in Stamford, CT. Class rank: 1/478.
+Junior at Westhill High School in Stamford, CT. Class rank: 1/426.
 
 ## What I'm working on
 
